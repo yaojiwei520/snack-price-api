@@ -1,0 +1,5 @@
+# requirements.txt
+
+fastmcp
+python-dotenv
+psycopg2-binary
